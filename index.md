@@ -33,7 +33,7 @@ page_sections:
   image:
     image: "/uploads/2021/10/24/bg-trippy.jpeg"
     alt_text: Selfie of creativenemo
-  background_image: "/uploads/2021/10/24/trippy-8472_00329816.jpeg"
+  background_image: "/uploads/2021/10/24/unnamed.jpeg"
 - template: 1-column-text
   block: one-column-1
   slug: responsive
