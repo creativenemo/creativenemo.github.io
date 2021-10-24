@@ -34,6 +34,14 @@ page_sections:
     image: "/uploads/2021/10/24/150144054_4001020353243908_1776128427731427594_n.jpeg"
     alt_text: Selfie of creativenemo
   background_image: ''
+- template: 1-column-text
+  block: one-column-1
+  slug: responsive
+  headline: This is 1 column Text
+  content: |
+    The Design Blocks can be used without Forestry but to harness the power
+    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
+    create new sites and make them fully customizable.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -56,14 +64,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
