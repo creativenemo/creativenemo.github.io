@@ -31,9 +31,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2021/10/24/trippy-bg.jpeg"
+    image: "/uploads/2021/10/24/bg-trippy.jpeg"
     alt_text: Selfie of creativenemo
-  background_image: "/uploads/2021/10/24/bg-trippy.jpeg"
+  background_image: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
