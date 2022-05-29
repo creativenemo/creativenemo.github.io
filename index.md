@@ -21,6 +21,5 @@ page_sections:
   content: I have been planning to build this site for a long long time! <br><br>You
     can find me on <a href="https://www.linkedin.com/in/creativenemo/" title="">LinkedIn</a>
     for now!
-published: false
 
 ---
