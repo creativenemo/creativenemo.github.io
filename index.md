@@ -13,7 +13,7 @@ page_sections:
   cta:
     button_text: CTA
     url: ''
-  logo: ''
+  logo: "/uploads/2018/06/21/forestry-symbol.svg"
 - template: 1-column-text
   block: one-column-1
   slug: responsive
